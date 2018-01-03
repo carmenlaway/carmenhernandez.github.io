@@ -45,6 +45,19 @@
 
 
 
+
+#msg-box4-48 .mbr-header__text {
+  color: #ff004d;
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+}
+#msg-box4-48 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-48 .mbr-article {
+  color: #ffffff;
+}
 #gallery1-x SMALL {
   color: #ffffff;
   text-align: center;
@@ -218,9 +231,23 @@
 }
 #form2-2f .mbr-header__text {
   font-family: 'Oswald', sans-serif;
+  color: #ffffff;
 }
 
 
+
+#msg-box4-44 .mbr-header__text {
+  color: #ff004d;
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+  font-size: 30px;
+}
+#msg-box4-44 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-44 .mbr-article {
+  color: #ffffff;
+}
 #dropdown-menu-14 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -250,6 +277,19 @@
 }
 
 
+
+#msg-box4-47 .mbr-header__text {
+  color: #ff004d;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  text-align: left;
+}
+#msg-box4-47 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-47 .mbr-article {
+  color: #ffffff;
+}
 #dropdown-menu-16 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -286,6 +326,7 @@
   font-size: 46px;
   font-family: 'Oswald', sans-serif;
   color: #ff004d;
+  text-align: center;
 }
 #features1-1a .mbr-header__subtext {
   font-family: 'Oswald', sans-serif;
