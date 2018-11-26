@@ -1,0 +1,1099 @@
+{
+  "settings": {
+    "name": "CARMEN HERNANDEZ-clone",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#333333",
+        "#ff004d",
+        "#222222",
+        "#252525",
+        "#9c9c9c",
+        "#f0f0f0",
+        "#777777"
+      ]
+    },
+    "versionFirst": "4.4.1",
+    "uniqCompNum": 185,
+    "versionPublish": "4.4.1",
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "CARMEN HERNANDEZ ",
+        "meta_descr": "Este es el portfolio de Carmen Hernández \n",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">MULTIMEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yiyi-142x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-s"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/8-1-2000x3000.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlay": false,
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
+                "overlay": false,
+                "overlayColor": "#222222"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-u",
+          "_styles": {
+            "H1": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Carmen Hernández.All rights reserved. Terms of use | Privacy Policy&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4c",
+          "_styles": {
+            "P": {
+              "font-size": "9px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "CARMEN HERNÁNDEZ&nbsp;",
+          "meta": "Fashion Designer &amp; Fashion Stylist",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4j",
+          "_styles": {
+            "H3": {
+              "font-size": "15px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "12px"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "ABOUT",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">MULTIMEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yiyi-142x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1h"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/logolaway-1417x1417.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-mg-77851-1400x2142.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CARMEN HERNÁNDEZ FERRERES<br><br>",
+          "text": "<p><i>Diseñadora de moda y estilista de moda. Nació en Jaén el 13 de mayo de 1993.</i></p><p><i> Desde muy corta edad, Carmen desarrolló su interés por el arte. A &nbsp;través del dibujo y las artes plásticas logró enfocar su creatividad hacia un punto concreto.</i></p><p><i>F</i><i>ue en el año &nbsp;2014 cuando comenzó sus estudios de diseño de moda en Sevilla, aunque los finalizó en la que había sido su escuela de artes plásticas y diseño en Granada. Su interés por el mundo de la moda siempre había estado muy vinvulado a la creación de imágenes a través de las cuáles &nbsp;poder transmitir &nbsp;conceptos en los que volcar determinadas sensaciones y emociones producto de la observación , del estudio y de la comprensión del mundo que le rodeaba. </i></p><p><i>Estilista de moda con publicaciones en revistas online como Design Scene, Kaltblut Magazine, Koos Magazine y Vogue It. Estilista de Inma Salomón, primera bailarina del Ballet Nacional de España para el &nbsp;single \"Alma Bohemia\" de Tin Fernández , violonchelista y cantautor.</i></p><p><i>En 2018 realizó sus prácticas de diseño de moda en el estudio de Agatha Ruiz de la Prada, Madrid, en el que adquirió &nbsp;grandes conocimientos y trabajó en las colecciones P/V 2019 para MBMFW &nbsp;y Gran Canaria Moda Cálida P/V 2019. Asistiendo con el equipo de ARP en fittings de revistas como Vanity Fair y backstage de desfiles de la firma.</i></p><p><br></p><p><i><br></i></p><p><i><br></i></p><p><i><br></i></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "15px",
+              "text-align": "center"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "headerAlign": "center",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1r"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Carmen Hernández.All rights reserved. Terms of use | Privacy Policy&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4c",
+          "_styles": {
+            "P": {
+              "font-size": "9px"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "CONTACT",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">MULTIMEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yiyi-142x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1h"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/8-1890x1417.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0"
+          },
+          "title": "CONTACT FORM",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT</a>",
+          "form": {
+            "action": "carmenhernandezferreres@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1n",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#ff004d"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "8px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Carmen Hernández.All rights reserved. Terms of use | Privacy Policy&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4c",
+          "_styles": {
+            "P": {
+              "font-size": "9px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "CARMEN HERNÁNDEZ&nbsp;",
+          "meta": "Fashion Designer &amp; Fashion Stylist",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-size": "15px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header3-4p"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "GALLERY",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">MULTIMEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yiyi-142x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1h"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/7-1-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-1-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Photo: Jose Beteta<br>Stylist: Carmen Hernández, Styling Assitants: Juanjo Gragera &amp; Edi Emanuel<br>Make uo &amp; hair: Ginna Agume, Assitants: Silvia Fernandez &amp; Nia Morales<br>BLOW MODELS<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Designs: Cherry Massia ,Maria Martin Studio &amp; Zara",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Designs: Anel Yaos &amp; Bershka<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Ray-Ban, Polar made in Italy",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Natalie Pflug &amp; Sabina Ndunge",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/13-1-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-1-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Ray-Ban &amp; Polar made in Italy<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Designs: Brea &amp; Cherry Massia",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/18-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Designs: Agatha Ruiz de la Prada &amp; Sunday Morning",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6-2-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Designs: Anel Yaos &amp; Cherry Massia<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/12-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Zara, Ray-Ban &amp; Polar made in Italy",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/19-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Designs: Sunday Morning &amp; Maria Martin Studio",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/8-1-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-1-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "DESIGN SCENE<br>Designs:Brea &amp; Cherry Massia",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-49",
+          "_styles": {
+            "SMALL": {
+              "font-size": "8px",
+              "color": "#cccccc"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/11-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Photo: Jose Beteta<br>Stylist: Carmen Hernández<br>Make up &amp; Hair :Ginna Agume<br>MAD MODELS MANAGEMENT",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6-1-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-1-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "KALTBLUT MAGAZINE<br>Designs: Lázur studio &amp; Sheila Pazos",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "MODEL TEST<br>Paula Sancho<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/8-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "KALTBLUT MAGAZINE<br>Julia Font<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-1-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "Photo: Jose Beteta<br>Stylist: Carmen Hernández<br>Make up &amp; Hair: Ginna Agume<br>MODELS DIVISION SPAIN",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-1-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "MODEL TEST<br>Paula Sancho<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/9-1-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-1-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "KALTBLUT MAGAZINE<br>Julia Font<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/8-2-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2-2000x3000-800x1200.jpg",
+                "alt": "",
+                "caption": "MODEL TEST<br>Paula Sancho<br>",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-4a",
+          "_styles": {
+            "SMALL": {
+              "font-size": "8px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "CARMEN HERNÁNDEZ&nbsp;",
+          "meta": "Fashion Stylist",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-size": "15px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header3-4k"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Carmen Hernández.All rights reserved. Terms of use | Privacy Policy&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4c",
+          "_styles": {
+            "P": {
+              "font-size": "9px"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "MULTIMEDIA",
+        "order": 2
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "images/bg5.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/kK3hnVbS7Nw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=kK3hnVbS7Nw",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CÓMO SE HIZO ENTROPY<br>",
+          "text": "Video de cómo se hizo el &nbsp;Fashion Editorial Entropy.<br>CÁMARA María Martín Ferreres.<br>MONTAJE &nbsp;VÍDEO José Beteta.<br>EQUIPO Blow Models, Carmen Hernández, Edi Emanuel, Juanjo Gragera, Ginna Agume, Nia Morales &amp; Silvia Fernández.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://www.youtube.com/watch?v=kK3hnVbS7Nw\" data-toolbar=\"-mbrBtnMove\">PLAY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-54",
+          "_styles": {
+            "H1": {
+              "font-size": "12px"
+            },
+            "P": {
+              "font-size": "10px"
+            },
+            ".btn": {
+              "font-size": "8px"
+            }
+          }
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">MULTIMEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yiyi-142x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-4r"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Carmen Hernández.All rights reserved. Terms of use | Privacy Policy&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "9px"
+            }
+          },
+          "_anchor": "footer1-4s"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "images/bg5.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/_hgdodHVH-I?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=_hgdodHVH-I",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ENTROPY",
+          "text": "Video for Fashion Editorial Entropy",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://www.youtube.com/watch?v=_hgdodHVH-I\" data-toolbar=\"-mbrBtnMove\">PLAY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-4z",
+          "_styles": {
+            "H1": {
+              "font-size": "12px"
+            },
+            "P": {
+              "font-size": "10px"
+            },
+            ".btn": {
+              "font-size": "8px"
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "images/bg5.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/yVHhIjCwDcc?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=yVHhIjCwDcc",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ALMA BOHEMIA",
+          "text": "MUSIC VIDEO del artista Tin Fernandez de su nuevo single Alma bohemia.\n<br>Con la colaboración especial de la primera bailarina del Ballet Nacional de España, Inma Salomón.\n<br>DIRECCIÓN por Pablo Ruiz Sanchez en las ruinas romanas de Baelo Claudia, Bolonia (Cádiz).\n<br>ESTILISMOS &nbsp;Carmen Hernández.\n<br>ASISTENTE DE CÁMARA Daniel Valdemoro.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://www.youtube.com/watch?v=yVHhIjCwDcc\" data-toolbar=\"-mbrBtnMove\">PLAY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-51",
+          "_styles": {
+            "P": {
+              "font-size": "10px",
+              "text-align": "left"
+            },
+            "H1": {
+              "font-size": "12px"
+            },
+            ".btn": {
+              "font-size": "8px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "CARMEN HERNÁNDEZ&nbsp;",
+          "meta": "Fashion Designer &amp; Fashion Stylist",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-size": "15px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header3-4y"
+        }
+      ]
+    }
+  }
+}
