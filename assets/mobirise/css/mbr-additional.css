@@ -8,20 +8,20 @@
 #dropdown-menu-s .nav .link,
 #dropdown-menu-s .dropdown-item {
   font-size: 0.8em;
-  color: #ffffff;
+  color: #000000;
   font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-s .navbar,
 #dropdown-menu-s .dropdown-menu {
-  background: #ffffff;
+  background: #efefef;
 }
 #dropdown-menu-s .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-s .dropdown-menu a:hover,
 #dropdown-menu-s .dropdown-menu a:focus {
-  background: #f5f5f5;
+  background: #e5e5e5;
 }
 #dropdown-menu-s .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #slider-u H1 {
   text-align: center;
