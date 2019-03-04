@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "CARMEN HERNANDEZ-clone",
+    "name": "CARMEN HERNANDEZ",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -43,18 +43,18 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "0.8em",
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-family": "'Roboto', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e5e5e5"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -63,14 +63,14 @@
             "hideButtons": true,
             "sticky": false,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": "0.8",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#ffffff"
+            "fontColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">MULTIMEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
@@ -306,7 +306,7 @@
             }
           },
           "title": "CARMEN HERNÁNDEZ FERRERES<br><br>",
-          "text": "<p><i>Diseñadora de moda y estilista de moda. Nació en Jaén el 13 de mayo de 1993.</i></p><p><i> Desde muy corta edad, Carmen desarrolló su interés por el arte. A &nbsp;través del dibujo y las artes plásticas logró enfocar su creatividad hacia un punto concreto.</i></p><p><i>F</i><i>ue en el año &nbsp;2014 cuando comenzó sus estudios de diseño de moda en Sevilla, aunque los finalizó en la que había sido su escuela de artes plásticas y diseño en Granada. Su interés por el mundo de la moda siempre había estado muy vinvulado a la creación de imágenes a través de las cuáles &nbsp;poder transmitir &nbsp;conceptos en los que volcar determinadas sensaciones y emociones producto de la observación , del estudio y de la comprensión del mundo que le rodeaba. </i></p><p><i>Estilista de moda con publicaciones en revistas online como Design Scene, Kaltblut Magazine, Koos Magazine y Vogue It. Estilista de Inma Salomón, primera bailarina del Ballet Nacional de España para el &nbsp;single \"Alma Bohemia\" de Tin Fernández , violonchelista y cantautor.</i></p><p><i>En 2018 realizó sus prácticas de diseño de moda en el estudio de Agatha Ruiz de la Prada, Madrid, en el que adquirió &nbsp;grandes conocimientos y trabajó en las colecciones P/V 2019 para MBMFW &nbsp;y Gran Canaria Moda Cálida P/V 2019. Asistiendo con el equipo de ARP en fittings de revistas como Vanity Fair y backstage de desfiles de la firma.</i></p><p><br></p><p><i><br></i></p><p><i><br></i></p><p><i><br></i></p><p><br></p><p><br></p>",
+          "text": "<p><i>Diseñadora de moda y estilista de moda. Nació en Jaén el 13 de mayo de 1993.</i></p><p><i> Desde corta edad, Carmen desarrolló su interés por el arte. A &nbsp;través del dibujo y las artes plásticas logró enfocar su creatividad hacia un punto concreto.</i></p><p><i>F</i><i>ue en el año &nbsp;2014 cuando comenzó sus estudios de diseño de moda en Sevilla, aunque los finalizó en la que había sido su escuela de artes plásticas y diseño en Granada. Su interés por el mundo de la moda siempre había estado muy vinvulado a la creación de imágenes a través de las cuáles &nbsp;poder transmitir &nbsp;conceptos en los que volcar determinadas sensaciones y emociones producto de la observación , del estudio y de la comprensión del mundo que le rodeaba. </i></p><p><i>Estilista de moda con publicaciones en revistas online como Design Scene, Kaltblut Magazine, Koos Magazine y Vogue It. Estilista de Inma Salomón, primera bailarina del Ballet Nacional de España para el &nbsp;single \"Alma Bohemia\" de Tin Fernández , violonchelista y cantautor.</i></p><p><i>En 2018 realizó sus prácticas de diseño de moda en el estudio de Agatha Ruiz de la Prada, Madrid, en el que adquirió &nbsp;grandes conocimientos y trabajó en las colecciones P/V 2019 para MBMFW &nbsp;y Gran Canaria Moda Cálida P/V 2019. Asistiendo con el equipo de ARP en fittings de revistas como Vanity Fair y backstage de desfiles de la firma.</i></p><p><br></p><p><i><br></i></p><p><i><br></i></p><p><i><br></i></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -625,7 +625,7 @@
                 "image": "@PROJECT_PATH@/assets/images/7-1-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/7-1-2000x3000-800x1200.jpg",
                 "alt": "",
-                "caption": "Photo: Jose Beteta<br>Stylist: Carmen Hernández, Styling Assitants: Juanjo Gragera &amp; Edi Emanuel<br>Make uo &amp; hair: Ginna Agume, Assitants: Silvia Fernandez &amp; Nia Morales<br>BLOW MODELS<br>",
+                "caption": "Photo: Jose Beteta<br>Stylist: Carmen Hernández, Styling Assitants: Juanjo Gragera &amp; Edi Emanuel<br>Make up &amp; hair: Ginna Agume, Assitants: Silvia Fernandez &amp; Nia Morales<br>BLOW MODELS<br>",
                 "active": false
               },
               {
